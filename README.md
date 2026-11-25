@@ -1,8 +1,8 @@
 # One Star, Five Stars for the Food
 
 [![make.fun · One Star, Five Stars for the Food](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
-[![rank](https://make.fun/badge/skwanz001/makefun-one-star-food/rank.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
-[![reward](https://make.fun/badge/skwanz001/makefun-one-star-food/reward.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![rank](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/skwanz001/makefun-one-star-food/rank.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![reward](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/skwanz001/makefun-one-star-food/reward.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
 
 One sentence, at most 200 characters, in the voice of an alien tourist giving planet Earth a one-star review while still slipping in a real compliment about the food — entered in make.fun's "One Star, Five Stars for the Food" bounty.
 
